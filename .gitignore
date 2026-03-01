@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Large files
+*.log
+
+# Power BI temp
+*.tmp
